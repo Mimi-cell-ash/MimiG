@@ -1,5 +1,5 @@
 //A program that calculates the average of of 4 numerical inputs
-public class Average{
+public class average{
     public static void average(String[]args){
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();
